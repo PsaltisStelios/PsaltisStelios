@@ -1,4 +1,4 @@
-## Hi there, I'm Stelios 👋
+## Hello there, I'm Stelios 👋
 
 
 Welcome to my GitHub page! I'm passionate about statistics and artificial intelligence, and I love working on projects that involve neural networks and deep learning. Whether it's statistcial modeling, data story telling or model training I'm always up for a new challenge!
