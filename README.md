@@ -1,12 +1,4 @@
-<!--
-**PsaltisStelios/PsaltisStelios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## Hi there, I'm Stelios 👋
-
-
-
-
 
 
 Welcome to my GitHub page! I'm passionate about statistics and artificial intelligence, and I love working on projects that involve neural networks and deep learning. Whether it's statistcial modeling, data story telling or model training I'm always up for a new challenge!
@@ -60,4 +52,8 @@ You can find me on:
 ---
 
 Thanks for stopping by! Feel free to star or fork my repositories if you find something interesting 😊
+
+
+<!--
+**PsaltisStelios/PsaltisStelios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
